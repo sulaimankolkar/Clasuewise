@@ -1,0 +1,35 @@
+{
+  "admin": {
+    "password_hash": "43b2acba21e899dd0e5033437817608a2f8a0ae475ce94944292438f0139deea$0eaca6d767d4f426454411aad577ef856e7ca2fbe548af55df512321c6ec0bc8",
+    "salt": "47fb77f4b83167ac362736d6ac912c388331032af326b077edcd1c32a6ef369c",
+    "role": "admin",
+    "created_at": 1762338443.9664736,
+    "login_attempts": 0,
+    "locked_until": 0,
+    "last_login": 1762410584.4290757
+  },
+  "abc": {
+    "password_hash": "e8ed3920cdf587c88f930b1a32a310f155dbc81cd5cc1bb2c52ea0a96a347c83$d5cfa6fdffaff60b578ae1b8cf37d895e10c9f8546ac511161a576a44670672f",
+    "role": "user",
+    "created_at": 1762338573.207201,
+    "login_attempts": 0,
+    "locked_until": 0,
+    "last_login": 1762410280.1702855
+  },
+  "G manu": {
+    "password_hash": "8e86905cdeed9084f4ec67b81d35cb14991833f448db3359abb19b02eefcb44d$1c31b449476b31591d840df4a78785c479b0aa36a805be779baba545cbd771d0",
+    "role": "user",
+    "created_at": 1762354161.8271153,
+    "login_attempts": 0,
+    "locked_until": 0,
+    "last_login": 1762356361.5866797
+  },
+  "abc@gmail.com": {
+    "password_hash": "252fd0824c5c9d03c06677097d7dedcaa50c0c903002568234f3590baa2a09b7$a47cf9f1156e4f383854b92a76a9e0c54bf04f65653d6c31e9d0fac495a7477b",
+    "role": "user",
+    "created_at": 1762410397.2360835,
+    "login_attempts": 0,
+    "locked_until": 0,
+    "last_login": 1762410818.9222894
+  }
+}
